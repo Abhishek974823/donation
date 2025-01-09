@@ -110,7 +110,7 @@ body{
 
 }
 .education:hover {
-    box-shadow: 5px 5px;
+    box-shadow: 2px 5px 10px 2px;
 }
 .education img{
     border-top-left-radius: 10%;
